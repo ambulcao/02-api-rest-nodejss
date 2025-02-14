@@ -40,3 +40,4 @@ Requisitos Não-Funcionais
 - [  ] Backup: Os dados devem ser backupeados diariamente;
 - [  ] Auditoria: Todas as operações devem ser registradas em log;
 - [  ] Conformidade: O sistema deve estar em conformidade com a LGPD;
+- [  ] Conformidade: O sistema deve estar em conformidade com a LGPD;
